@@ -23,6 +23,7 @@ shop -= 2;
 3. Zmień implementację metody `read` na metodę będącą przeciążonym operatorem `<<`, który umożliwi wypisywanie detali przedmiotów w konsoli. Przykładowo:
 
 ```C++
+// main.cpp
 cout << shop;
 ```
 
